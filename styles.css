@@ -56,7 +56,7 @@ img {
 
 [class*="col-"] {
         float: left;
-        padding: 50px;
+        padding: 15px;
       }
 
 .start::after {
